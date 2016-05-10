@@ -1,0 +1,5 @@
+Here are a few notes:
+
+1. I know HTML is not technically coding, it is actually markup, but you can make a Hello, World! in it.
+2. Ditto with CSS, but there is no syntactically correct way to make a Hello, World! without somehow piggybacking it on HTML.
+  So I just made some random stuff just to use it.
